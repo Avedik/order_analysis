@@ -1,0 +1,2 @@
+2026-09-08 13:58:22,339 - ERROR - Could not load order_10.csv: missing columns: status, total_amount
+2026-09-08 13:58:22,446 - ERROR - Could not load order_corrupted.csv: column 'total_amount' contains non-numeric values

@@ -1,0 +1,2 @@
+"order_id","person_id","order_date","status","total_amount","currency","payment_method","shipping_method","notes"
+1,123,"2024-01-01","Delivered","not-a-number","USD","card","express","invalid amount"
